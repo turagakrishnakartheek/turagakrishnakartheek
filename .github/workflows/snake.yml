@@ -21,7 +21,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish generated files
+      - name: Publish snake to GitHub Pages branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
