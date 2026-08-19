@@ -29,7 +29,6 @@
 
 <table>
 <tr>
-
 <td width="55%">
 
 🎓 **B.Tech Computer Science and Engineering**
