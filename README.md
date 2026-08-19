@@ -1,520 +1,317 @@
 <div align="center">
 
+# 👋 Hi, I'm Turaga Krishna Kartheek
 
-
-👋 Hi, I'm Turaga Krishna Kartheek
-
-
-
-CSE Student • IoT Engineer • AI/ML Enthusiast • Computer Vision
-
-
+### 🚀 IoT Engineer • AI/ML Enthusiast • Computer Vision • CSE Student
 
 <p>
-
-&#x20; <a href="https://www.linkedin.com/in/turagakrishnakartheek">
-
-&#x20;   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white" alt="LinkedIn"/>
-
-&#x20; </a>
-
-&#x20; <a href="mailto:turagakrishnakartheek@gmail.com">
-
-&#x20;   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white" alt="Email"/>
-
-&#x20; </a>
-
-&#x20; <a href="https://github.com/turagakrishnakartheek">
-
-&#x20;   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github\&logoColor=white" alt="GitHub"/>
-
-&#x20; </a>
-
+  <a href="https://www.linkedin.com/in/turagakrishnakartheek">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:turagakrishnakartheek@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/turagakrishnakartheek">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&duration=2800\&pause=900\&center=true\&vCenter=true\&width=650\&lines=Building+IoT+%2B+AI+Systems;Computer+Vision+%7C+YOLO+%7C+OpenCV;ESP32+%7C+ESP32-CAM+%7C+Raspberry+Pi;Turning+Real-World+Problems+into+Projects" alt="Typing animation"/>
-
-
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=750&lines=Building+IoT+%2B+AI+Systems;Computer+Vision+%7C+YOLO+%7C+OpenCV;ESP32+%7C+ESP32-CAM+%7C+Raspberry+Pi;Turning+Real-World+Problems+into+Projects"
+  alt="Typing Animation"
+/>
 
 </div>
 
+---
 
-
-🚀 About Me
-
-
+## 👨‍💻 About Me
 
 <table>
-
 <tr>
 
 <td width="55%">
 
+🎓 **B.Tech Computer Science and Engineering**
 
+🏫 **Dayananda Sagar Academy of Technology and Management**
 
-🎓 B.Tech CSE student at Dayananda Sagar Academy of Technology and Management
+📈 **CGPA: 9.11**
 
+🔌 Interested in **IoT, Embedded Systems and IoT + AI**
 
+🤖 Exploring **Machine Learning, YOLO and Computer Vision**
 
-📈 CGPA: 9.11
+💻 Working with **Python, SQL, Java, C, HTML and CSS**
 
+🏆 **Hackathon Winner — 1×**
 
+🥈 **Hackathon — 2nd Place**
 
-🔌 Focused on IoT, Embedded Systems and IoT + AI
+👨‍💼 **Vice President — Department Technical Club**
 
+🎯 Organized **2 major hackathons**
 
-
-🤖 Exploring Machine Learning, YOLO and Computer Vision
-
-
-
-💻 Building skills in Python, SQL, Java, C, HTML and CSS
-
-
-
-🏆 1× Hackathon Winner
-
-
-
-🥈 2nd Place in another hackathon
-
-
-
-👨‍💼 Vice President — Department Technical Club
-
-
-
-🎯 Organized 2 major hackathons with 750+ participants
-
-
+👥 Reached **750+ participants** across organized events
 
 </td>
 
 <td width="45%">
 
+### 🎯 Current Focus
 
-
-🎯 Current Focus
-
-
-
-IoT
-
-&#x20;├─ ESP32 / ESP32-CAM
-
-&#x20;├─ Raspberry Pi
-
-&#x20;├─ Sensors \& Actuators
-
-&#x20;└─ IoT + AI
-
-
-
-AI / ML
-
-&#x20;├─ YOLO
-
-&#x20;├─ OpenCV
-
-&#x20;├─ Computer Vision
-
-&#x20;└─ Applied AI
-
-
-
-Software
-
-&#x20;├─ Python
-
-&#x20;├─ SQL
-
-&#x20;├─ Java
-
-&#x20;└─ C
-
-
-
-</td>
-
-</tr>
-
-</table>
-
-
-
-🧰 Tech Stack
-
-
-
-💻 Programming
-
-
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css" alt="Programming skills"/>
-
-</p>
-
-
-
-🔌 IoT \& Embedded
-
-
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="IoT tools"/>
-
-</p>
-
-
-
-ESP32 • ESP32-CAM • Arduino • Raspberry Pi • Sensors • Actuators • IoT Architecture
-
-
+```text
+🔌 IoT
+├── ESP32
+├── ESP32-CAM
+├── Raspberry Pi
+├── Sensors
+├── Actuators
+└── IoT + AI
 
 🤖 AI / ML
+├── YOLO
+├── OpenCV
+├── Computer Vision
+├── Machine Learning
+└── Applied AI
 
-
+💻 Software
+├── Python
+├── SQL
+├── Java
+└── C
+</td> </tr> </table>
+🧰 Tech Stack
+💻 Programming
+<p> <img src="https://skillicons.dev/icons?i=python,java,c,html,css" alt="Programming Skills"> </p>
+🔌 IoT & Embedded Systems
+<p> <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="IoT Skills"> </p> <p> <b>ESP32</b> • <b>ESP32-CAM</b> • <b>Arduino</b> • <b>Raspberry Pi</b> • <b>Sensors</b> • <b>Actuators</b> • <b>IoT Architecture</b> </p>
+🤖 AI / Machine Learning
+<p> <img src="https://img.shields.io/badge/YOLO-Computer%20Vision-111111?style=for-the-badge" alt="YOLO"> <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"> <img src="https://img.shields.io/badge/Machine%20Learning-Applied%20AI-FF6F00?style=for-the-badge" alt="Machine Learning"> </p>
 
 YOLO • OpenCV • Computer Vision • Machine Learning • Applied AI • AI + IoT
 
-
-
 📊 Data
-
-
 
 SQL • Pandas • NumPy • Data Analysis • Data Visualization
 
+🚀 Featured Projects
+<table> <tr> <td width="33%" valign="top"> <h3>🌱 SeedSense</h3>
 
+<b>AI + IoT Seed Quality Assessment</b>
 
-🔥 Featured Projects
-
-
-
-<details open>
-
-<summary><b>🌱 SeedSense — AI + IoT Seed Quality Assessment</b></summary>
-
-
-
-<br>
-
-
+<br><br>
 
 A smart non-destructive seed quality assessment and grading system using ESP32-CAM, computer vision and sensor-based measurements.
 
+<br><br>
 
+<b>Focus</b>
 
-Focus: Seed detection • Quality classification • Computer Vision • Embedded AI
-
-
-
-Stack: ESP32-CAM AI Computer Vision IoT Python
-
-
-
-</details>
-
-
-
-<details>
-
-<summary><b>🔥 AgniNet++ — Forest Fire AI Monitoring</b></summary>
-
-
-
+Seed detection
+Quality classification
+Computer Vision
+Embedded AI
 <br>
 
+<b>Technology</b>
 
+ESP32-CAM
+AI
+Computer Vision
+IoT
+Python
+
+</td> <td width="33%" valign="top"> <h3>🔥 AgniNet++</h3>
+
+<b>Forest Fire AI Monitoring</b>
+
+<br><br>
 
 An AI-assisted forest fire monitoring and risk prediction system combining satellite data, machine learning, fire-spread simulation and IoT sensing.
 
+<br><br>
 
+<b>Focus</b>
 
-Focus: Fire-risk prediction • Satellite data • Simulation • IoT monitoring
-
-
-
-Stack: AI/ML IoT Computer Vision Satellite Data Simulation
-
-
-
-</details>
-
-
-
-<details>
-
-<summary><b>🚛 WIM IoT Vehicle Monitoring</b></summary>
-
-
-
+Fire-risk prediction
+Satellite data
+Fire simulation
+IoT monitoring
 <br>
 
+<b>Technology</b>
 
+AI/ML
+IoT
+Computer Vision
+Satellite Data
+Simulation
 
-A data-driven Weigh-In-Motion framework for vehicle weight estimation and axle analysis using sensor modelling, machine learning, hybrid sensor fusion and a digital twin.
+</td> <td width="33%" valign="top"> <h3>🚛 WIM</h3>
 
+<b>IoT Vehicle Monitoring</b>
 
+<br><br>
 
-Features:
+A data-driven Weigh-In-Motion framework for vehicle weight estimation and axle analysis using sensor modelling, machine learning, hybrid sensor fusion and digital-twin simulation.
 
+<br><br>
 
+<b>Features</b>
 
-Vehicle and axle weight estimation
-
-
-
-Hybrid load-cell + piezo modelling
-
-
-
+Vehicle weight estimation
+Axle analysis
 Overload detection
+Sensor fusion
+Robustness analysis
+Digital Twin
+Dashboard
+<br>
 
+<b>Technology</b>
 
+Python
+Machine Learning
+Signal Processing
+Streamlit
+PyBullet
 
-Noise and speed robustness analysis
+</td> </tr> </table>
+🔍 Explore My Projects
+<details> <summary>🌱 <b>SeedSense — AI + IoT Seed Quality Assessment</b></summary> <br>
 
+SeedSense is designed to evaluate seed quality before purchase or sowing using a combination of:
 
+ESP32-CAM
+Computer Vision
+AI-based classification
+Non-destructive sensing
+Seed detection
+Quality grading
 
+The system focuses on low-cost and practical seed-quality assessment.
+
+</details> <br> <details> <summary>🔥 <b>AgniNet++ — Forest Fire AI Monitoring</b></summary> <br>
+
+AgniNet++ combines:
+
+AI-based fire-risk prediction
+Satellite data
+Fire-spread simulation
+IoT sensing
+Computer Vision
+Monitoring dashboard
+
+The project focuses on intelligent forest-fire monitoring and prediction.
+
+</details> <br> <details> <summary>🚛 <b>WIM IoT Vehicle Monitoring</b></summary> <br>
+
+The WIM project explores a data-driven Weigh-In-Motion framework.
+
+Core components
+Load-cell modelling
+Piezoelectric sensor modelling
+Hybrid sensor fusion
+Vehicle weight estimation
+Axle-level prediction
+Overload detection
+Sensor-noise robustness
+Speed robustness
+Vehicle-class robustness
 Post-checkpoint analysis
-
-
-
 Digital Twin simulation
+Interactive dashboard
+Technology
 
-
-
-Interactive monitoring dashboard
-
-
-
-Stack: Python Machine Learning Signal Processing Streamlit PyBullet
-
-
+Python • NumPy • Pandas • SciPy • Scikit-learn • Streamlit • Plotly • PyBullet
 
 </details>
-
-
-
 🏆 Achievements
+<table> <tr> <td align="center"> <h2>🥇</h2> <b>Hackathon Winner</b> <br> 1× </td> <td align="center"> <h2>🥈</h2> <b>Hackathon</b> <br> 2nd Place </td> <td align="center"> <h2>👨‍💼</h2> <b>Technical Club</b> <br> Vice President </td> <td align="center"> <h2>🚀</h2> <b>Hackathons</b> <br> 2 Organized </td> <td align="center"> <h2>👥</h2> <b>Participants</b> <br> 750+ </td> </tr> </table>
+📊 GitHub Activity
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/turagakrishnakartheek/turagakrishnakartheek/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="900" />
 
+</div>
+🎯 What I'm Building
+<table> <tr> <td align="center" width="25%">
+🔌
 
-🏅
+IoT Engineering
 
+ESP32
+ESP32-CAM
+Raspberry Pi
+Sensors
+Actuators
 
+</td> <td align="center" width="25%">
+🤖
 
-Achievement
+Applied AI
 
+YOLO
+OpenCV
+Computer Vision
+Machine Learning
 
+</td> <td align="center" width="25%">
+💻
 
-🥇
+Software
 
+Python
+SQL
+Java
+C
 
-
-Hackathon Winner — 1×
-
-
-
-🥈
-
-
-
-Hackathon — 2nd Place
-
-
-
-👨‍💼
-
-
-
-Vice President — Department Technical Club
-
-
-
+</td> <td align="center" width="25%">
 🚀
 
+Real-World Systems
 
+IoT + AI
+Automation
+Data-driven Solutions
+Research
 
-Organized 2 major hackathons
-
-
-
-👥
-
-
-
-750+ participants across organized events
-
-
-
-📊 GitHub Analytics
-
-
-
-<div align="center">
-
-
-
-<a href="https://github.com/turagakrishnakartheek">
-
-&#x20; <img height="180" src="https://github-readme-stats.vercel.app/api?username=turagakrishnakartheek\&show\_icons=true\&hide\_border=true\&rank\_icon=github\&theme=tokyonight" alt="GitHub statistics"/>
-
-</a>
-
-<a href="https://github.com/turagakrishnakartheek">
-
-&#x20; <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turagakrishnakartheek\&layout=compact\&hide\_border=true\&theme=tokyonight" alt="Top languages"/>
-
-</a>
-
-
-
-</div>
-
-
-
-<div align="center">
-
-
-
-<img src="https://streak-stats.demolab.com?user=turagakrishnakartheek\&theme=tokyonight\&hide\_border=true" alt="GitHub streak"/>
-
-
-
-</div>
-
-
-
-🐍 Contribution Activity
-
-
-
-<div align="center">
-
-
-
-<img src="https://raw.githubusercontent.com/turagakrishnakartheek/turagakrishnakartheek/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
-
-
-
-</div>
-
-
-
-📌 What I'm Building
-
-
-
-┌─────────────────────────────────────────────────────────┐
-
-│                    CURRENT DIRECTION                    │
-
-├─────────────────────────────────────────────────────────┤
-
-│                                                         │
-
-│  🔌 IoT Engineering                                    │
-
-│     ESP32 • ESP32-CAM • Raspberry Pi • Sensors         │
-
-│                                                         │
-
-│  🤖 Applied AI                                          │
-
-│     YOLO • OpenCV • Computer Vision • ML              │
-
-│                                                         │
-
-│  💻 Software Development                                │
-
-│     Python • SQL • Java • C                            │
-
-│                                                         │
-
-│  🚀 Real-World Systems                                  │
-
-│     IoT + AI • Automation • Data-driven solutions     │
-
-│                                                         │
-
-└─────────────────────────────────────────────────────────┘
-
-
-
+</td> </tr> </table>
 🎓 Education
-
-
-
 Dayananda Sagar Academy of Technology and Management
 
-Bachelor of Technology / Engineering — Computer Science and Engineering
+Bachelor of Engineering — Computer Science and Engineering
 
-CGPA: 9.11 | 2023–2027
+📍 Bengaluru, India
+📅 2023 – 2027
+📈 CGPA: 9.11
 
+Board of Intermediate Education
 
+90.5%
 
-Board of Intermediate Education — 90.5%
+Board of Secondary Education
 
+599 / 600 — 99.83%
 
-
-Board of Secondary Education — 599/600
-
-
-
+📚 Areas of Interest
+<p align="center"> <img src="https://img.shields.io/badge/Internet%20of%20Things-IoT-0078D4?style=for-the-badge" alt="IoT"> <img src="https://img.shields.io/badge/Artificial%20Intelligence-AI-8A2BE2?style=for-the-badge" alt="AI"> <img src="https://img.shields.io/badge/Machine%20Learning-ML-FF6F00?style=for-the-badge" alt="Machine Learning"> <img src="https://img.shields.io/badge/Computer%20Vision-CV-00A67E?style=for-the-badge" alt="Computer Vision"> <img src="https://img.shields.io/badge/Embedded%20Systems-ESP32-333333?style=for-the-badge" alt="Embedded Systems"> </p>
 🤝 Let's Connect
-
-
 
 I'm interested in collaborating on:
 
-
-
 IoT • AI/ML • Computer Vision • Embedded AI • Data Analytics • Hackathons • Research
 
+<br> <div align="center"> <a href="https://www.linkedin.com/in/turagakrishnakartheek"> <img src="https://img.shields.io/badge/LinkedIn-Turaga%20Krishna%20Kartheek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="mailto:turagakrishnakartheek@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://github.com/turagakrishnakartheek"> <img src="https://img.shields.io/badge/GitHub-Turaga%20Krishna%20Kartheek-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a>
 
+<br><br>
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=turagakrishnakartheek&style=for-the-badge" alt="Profile Views">
 
-
-
-<a href="https://www.linkedin.com/in/turagakrishnakartheek">
-
-<img src="https://img.shields.io/badge/LinkedIn-Turaga%20Krishna%20Kartheek-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white" alt="LinkedIn"/>
-
-</a>
-
-
-
-<a href="mailto:turagakrishnakartheek@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-turagakrishnakartheek-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white" alt="Email"/>
-
-</a>
-
-
-
-</div>
-
-
-
-<div align="center">
-
-
-
-<img src="https://komarev.com/ghpvc/?username=turagakrishnakartheek\&style=for-the-badge\&color=blue" alt="Profile views"/>
-
-
+<br><br>
 
 ⭐ Thanks for visiting my profile!
 
-
-
-</div>
-
+</div> ```
